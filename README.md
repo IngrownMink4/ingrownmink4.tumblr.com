@@ -3,4 +3,7 @@
  
  
  ![ingrownmink4.tumblr.com](firefox_8msHnJ8hny.png)
+ 
+ ![ingrownmink4.tumblr.com](chrome_YExhdFPs1A.png)
+
 
