@@ -167,4 +167,38 @@ blockquote.hidden { display: none; }
 .notes-container .avatar_frame { display: none; }
 
 {CustomCSS}
+
+/* selectores con color */
+::selection {
+    background-color: #ffd681;
+    color: #110b2b;
+}
+
+:root {
+  color-scheme: dark;
+}
+
+/* HTML TAGS BY INGROWNMINK4 */
+
+
+/* Works only on Firefox */
+html {
+    scrollbar-color: #ffd681 #110b2b;
+    scrollbar-width: auto
+}
+  }
+
+html {
+    scroll-behavior: smooth;
+}
+
+html {
+  -ms-overflow-style: -ms-autohiding-scrollbar;
+}
+
+html {
+    text-rendering: optimizeLegibility;
+    
+}
+
 </style>
