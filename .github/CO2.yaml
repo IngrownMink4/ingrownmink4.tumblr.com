@@ -1,0 +1,14 @@
+# .github/workflows/CO2.yaml
+name: Calculate CO2 🌱
+# You can remove any you don't want
+on: [push, pull_request]
+
+jobs:
+  audit:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Calculate CO2 🌱
+        uses: GeopJr/CO2@v1
+        with:
+          url: "https://geopjr.dev/"
+          renewable: true
