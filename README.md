@@ -1,7 +1,7 @@
 <h2 align= "center"> ingrownmink4.tumblr.com </h2>
 <p align="center"> A lightweight and free/libre blog for Tumblr. Used as my personal website (at the moment).
 <br>
-<p align= "center"> <a href="https://github.com/fvsch/monospace-theme" rel="noopener"> Forked from Florent Verschelde's Monospace theme</a>. Tweaked by me with CSS. I added some other cool features too. </p>
+<p align= "center"> <a href="https://github.com/fvsch/monospace-theme" rel="noopener"> Forked from Florent Verschelde's Monospace theme</a>. Tweaked by me with CSS.</p>
 
 
 ### Built with
