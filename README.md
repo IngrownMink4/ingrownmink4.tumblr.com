@@ -3,7 +3,7 @@
 <br>
 <a href="https://github.com/fvsch/monospace-theme" rel="noopener"> Forked from Florent Verschelde's Monospace theme</a>. Tweaked by me with CSS. I added some other cool features too. </p>
 
----
+
 ### Built with
 - HTML
 - SCSS
@@ -18,7 +18,7 @@
 - Compliant with the latest WCAG accessibility standards
 - Much more…
 
----
+
 
  
  This is what it looks like using:
