@@ -16,7 +16,11 @@
 - Multiple languages available (eu-ES, es-ES, en-EU)
 - Dark mode enabled by default
 - Compliant with the latest WCAG accessibility standards
+- <a href="https://raw.githubusercontent.com/IngrownMink4/ingrownmink4.tumblr.com/main/Captura%20desde%202022-07-12%2022-37-55.png" rel="noopener"> Decent score at Lighthouse</a>
 - Much more…
+
+
+
 
 
 
