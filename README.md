@@ -24,6 +24,6 @@
  This is what it looks like using:
 Firefox|Chrome
 ---|---
-![Firefox](firefox99tumblr-min.png)|![Chrome](chromium103ingrownminktumblr.png) 
+![Firefox](firefox102ingrownminktumblr.png)|![Chrome](chromium103ingrownminktumblr.png) 
 
 
